@@ -2,7 +2,8 @@
 
 
 ##Clumsy Bird
-This particular open source project is inspired from the very famous *Flappy Bird* , which is a side scrolling mobile game featuring 2D retro style graphics.The objective is to direct a flying bird,which moves continuously to the right, between each coming set of pipes without colliding with them,which otherwise ends the game.If the screen is not tapped the bird falls due to gravity.The player is scored on the number of pipes the bird successfully passes through.Since this game was removed it inspired so many developers to develop it, Just because it was an open source project,It got a lot of visibility from all over the world.**Clumsy Bird** is a clone of *Flappy Bird* Played in similar manner.
+This particular open source project is inspired from the very famous *Flappy Bird* , which is a side scrolling mobile game featuring 2D retro style graphics.The objective is to direct a flying bird,which moves continuously to the right, 
+between each coming set of pipes without colliding with them,which otherwise ends the game.If the screen is not tapped the bird falls due to gravity.The player is scored on the number of pipes the bird successfully passes through.Since this game was removed it inspired so many developers to develop it, Just because it was an open source project,It got a lot of visibility from all over the world.**Clumsy Bird** is a clone of *Flappy Bird* Played in similar manner.
 
 
 **Clumsy Bird**  took two days to develop, since it is being inspired from *Flappy Bird* ,It gained popularity soon Flappy Bird was being removed from web.
@@ -98,7 +99,7 @@ All of these represent failure and latency that needs to be isolated and managed
 
 
 In addition to Hystrix examples, the following are additional examples from complete end to end applications using many key components from Netflix OSS stack:
-*Flux Capacitor
+*Flux Capacitor,
 *Netflix Recipes -RSS Reader
 
 
